@@ -3,3 +3,14 @@
 
 *.out*
 _zz*
+
+Cache
+GPUCache
+Local Storage
+logs
+Network
+Service Worker
+Session Storage
+User
+QuotaManager*
+.vscode/settings.json
